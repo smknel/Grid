@@ -1,0 +1,40 @@
+
+
+.maincontainer{
+
+text-align: center;
+background-color: antiquewhite;
+margin: 200px;
+padding: 70px;
+height: 400px;
+
+display: flex;
+flex-direction: column;
+
+}
+
+body{
+
+    background-color: aliceblue;
+}
+
+#save-btn{
+
+    padding: 20px;
+    background-color: rgb(4, 50, 14);
+    color: white;
+    border-radius: 20px;
+    border: 4px solid rgb(198, 208, 161);
+   
+}
+
+button{
+
+
+    padding: 20px;
+    background-color: brown;
+    color: white;
+    margin: 10px 220px;
+    border-radius: 20px;
+    border: 4px solid rgb(198, 208, 161);
+}
